@@ -1,0 +1,21 @@
+
+body{
+  background-color: #dcf1f0;
+  text-align: center;
+}
+
+
+h1{
+  font-family: "Playwrite CU", cursive;
+  font-weight: 5;
+  font-style: normal;
+  border-style:solid;
+  border-width: 2px;
+  border-color: black;
+
+}
+
+strong{
+  color : red
+}
+

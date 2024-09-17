@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../js projects"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vscode-corda.isCordaProject": false,
+		"liveServer.settings.multiRootWorkspaceName": "HTMLFirstProject"
+	}
+}
